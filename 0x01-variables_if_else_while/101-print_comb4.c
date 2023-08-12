@@ -35,11 +35,11 @@ int main(void)
 				}
 				digit3++;
 			}
-			digit2++
+			digit2++;
 		}
-		digit1++
+		digit1++;
 	}
-	printf('\n');
+	putchar('\n');
 
 	return (0);
 }
