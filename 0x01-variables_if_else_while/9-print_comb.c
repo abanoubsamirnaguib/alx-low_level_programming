@@ -24,7 +24,7 @@ int main(void)
 		}
 		digit++;
 	}
-	printf('\n');
+	putchar('\n');
 
 	return (0);
 }
