@@ -28,7 +28,7 @@ int main(void)
 
 				if (digit1 != 98 || digit2 != 99)
 				{
-					putchar('.');
+					putchar(',');
 					putchar(' ');
 				}
 			}
