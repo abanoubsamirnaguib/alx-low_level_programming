@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * jack_bauer - functon to print n int
- * @n: parameter to print
+ * jack_bauer - prints
  *
  * Description: print
  *
