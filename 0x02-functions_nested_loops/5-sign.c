@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_sign - functon to print c int
- * @c: parameter to print
+ * print_sign - functon to print n int
+ * @n: parameter to print
  *
  * Description: print
  *
@@ -10,7 +10,7 @@
  *
  */
 
-int print_sign(int c)
+int print_sign(int n)
 {
 	if (n > 0)
 	{
