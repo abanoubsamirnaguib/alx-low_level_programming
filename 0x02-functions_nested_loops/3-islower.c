@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * _islower - functon to print
+ * _islower - functon to print c int
+ * @c: parameter to print
  *
  * Description: print
  *
