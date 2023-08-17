@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - entry point
+ * print_alphabet - functon to print
  *
- * Description: false or true validation
+ * Description: print
  *
  * Return: 0 (success)
  *
